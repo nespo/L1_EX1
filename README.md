@@ -16,7 +16,7 @@ This program performs two main tasks:
 
 You can run this code directly in the [Kotlin Playground](https://play.kotlinlang.org/) or compile and run it from the command line:
 
-```bash
+
 # Compile the code
 kotlinc Main.kt -include-runtime -d Main.jar
 
