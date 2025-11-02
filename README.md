@@ -27,5 +27,5 @@ java -jar Main.jar
 output.txt
 
 This is the exact text that the program will print to the console.
-
+---
 <img width="2880" height="1624" alt="Kotlin Prime and Even Numbers Output" src="https://github.com/user-attachments/assets/df9ded26-e8e8-487a-9b0c-42519ab53a67" />
