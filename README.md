@@ -16,5 +16,18 @@ This program performs two main tasks:
 
 You can run this code directly in the [Kotlin Playground](https://play.kotlinlang.org/) or compile and run it from the command line:
 
+```bash
+# Compile the code
+kotlinc Main.kt -include-runtime -d Main.jar
+
+# Run the compiled JAR
+java -jar Main.jar
+
+---
+
+## output.txt
+
+This is the exact text that the program will print to the console.
+
 
 <img width="2880" height="1624" alt="image" src="https://github.com/user-attachments/assets/df9ded26-e8e8-487a-9b0c-42519ab53a67" />
