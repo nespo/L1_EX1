@@ -18,10 +18,10 @@ You can run this code directly in the [Kotlin Playground](https://play.kotlinlan
 
 
 # Compile the code
-```kotlinc Main.kt -include-runtime -d Main.jar
+kotlinc Main.kt -include-runtime -d Main.jar
 
 # Run the compiled JAR
-```java -jar Main.jar
+java -jar Main.jar
 
 
 output.txt
